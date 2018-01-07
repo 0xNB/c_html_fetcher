@@ -1,4 +1,4 @@
-#include "fetchSource.c"
+#include "fetchSource.h"
 
 /* test our html source fetcher */
 int main() {
